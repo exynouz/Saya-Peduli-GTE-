@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.slide {
+    right: 0 !important;
+    transform: translateX(0);
+    opacity: 1;
+}
